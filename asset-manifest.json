@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kelzem1/Germanrolon.git/static/css/main.8e1d05a9.css",
-    "main.js": "/Kelzem1/Germanrolon.git/static/js/main.0d32f94d.js",
-    "static/js/787.92e6f27d.chunk.js": "/Kelzem1/Germanrolon.git/static/js/787.92e6f27d.chunk.js",
+    "main.js": "/Kelzem1/Germanrolon.git/static/js/main.20ade552.js",
+    "static/js/787.aec933ad.chunk.js": "/Kelzem1/Germanrolon.git/static/js/787.aec933ad.chunk.js",
     "static/media/azulejo.jpg": "/Kelzem1/Germanrolon.git/static/media/azulejo.82a757299ad916fdb76c.jpg",
     "static/media/reforma.jpg": "/Kelzem1/Germanrolon.git/static/media/reforma.6b9d724ef00f31ca8911.jpg",
     "static/media/foto1.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto1.c4fefdecf954e03066ad.jpeg",
@@ -19,11 +19,11 @@
     "static/media/email.png": "/Kelzem1/Germanrolon.git/static/media/email.ca1ec769418f28a531ee.png",
     "index.html": "/Kelzem1/Germanrolon.git/index.html",
     "main.8e1d05a9.css.map": "/Kelzem1/Germanrolon.git/static/css/main.8e1d05a9.css.map",
-    "main.0d32f94d.js.map": "/Kelzem1/Germanrolon.git/static/js/main.0d32f94d.js.map",
-    "787.92e6f27d.chunk.js.map": "/Kelzem1/Germanrolon.git/static/js/787.92e6f27d.chunk.js.map"
+    "main.20ade552.js.map": "/Kelzem1/Germanrolon.git/static/js/main.20ade552.js.map",
+    "787.aec933ad.chunk.js.map": "/Kelzem1/Germanrolon.git/static/js/787.aec933ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e1d05a9.css",
-    "static/js/main.0d32f94d.js"
+    "static/js/main.20ade552.js"
   ]
 }
