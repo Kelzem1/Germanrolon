@@ -1,5 +1,8 @@
 import Slider from "react-slick";
 import './Styles/Slider.css';
+import { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import foto1 from './imgs/foto1.jpeg'
 import foto2 from './imgs/foto2.jpeg'
 import foto3 from './imgs/foto3.jpeg'
@@ -17,9 +20,15 @@ const SimpleSlider = () => {
       slidesToShow: 1,
       slidesToScroll: 1
     };
+    useEffect(() => {
+      AOS.init({
+          duration:1000
+      });
+      AOS.refresh();
+    }, []);
 
     return (
-      <div className="bg-slate-900/[0.9]">
+      <div data-aos="fade-zoom-in" data-aos-delay="800" data-aos-offset="0" className="bg-slate-900/[0.9]">
         <Slider className="Slidercont" {...settings}>
           
           <div className="cont">
