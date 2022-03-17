@@ -28,7 +28,7 @@ const SimpleSlider = () => {
     }, []);
 
     return (
-      <div data-aos="fade-zoom-in" data-aos-delay="800" data-aos-offset="0" className="bg-slate-900/[0.9]">
+      <div data-aos="fade-zoom-in" data-aos-delay="600" data-aos-offset="0" className="bg-slate-900/[0.9]">
         <Slider className="Slidercont" {...settings}>
           
           <div className="cont">
