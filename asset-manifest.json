@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Kelzem1/Germanrolon.git/static/css/main.90711c18.css",
-    "main.js": "/Kelzem1/Germanrolon.git/static/js/main.da06d921.js",
-    "static/js/787.1cc83d21.chunk.js": "/Kelzem1/Germanrolon.git/static/js/787.1cc83d21.chunk.js",
-    "static/media/azulejo.jpg": "/Kelzem1/Germanrolon.git/static/media/azulejo.82a757299ad916fdb76c.jpg",
-    "static/media/reforma.jpg": "/Kelzem1/Germanrolon.git/static/media/reforma.6b9d724ef00f31ca8911.jpg",
-    "static/media/foto1.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto1.c4fefdecf954e03066ad.jpeg",
-    "static/media/foto5.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto5.085a7424b26f1f5cce3c.jpeg",
-    "static/media/suelo.jpg": "/Kelzem1/Germanrolon.git/static/media/suelo.b877557c0dd793a2f869.jpg",
-    "static/media/foto3.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto3.5974ffa66b166db454f1.jpeg",
-    "static/media/foto6.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto6.15c3f723020348098921.jpeg",
-    "static/media/foto2.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto2.be1d277e2f9ad9b2a90e.jpeg",
-    "static/media/foto4.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto4.f5e13dfab1a181736d61.jpeg",
-    "static/media/logoGerman.png": "/Kelzem1/Germanrolon.git/static/media/logoGerman.ac1225295bf0e6c3a34f.png",
-    "static/media/foto8.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto8.e5046dcf2e595ce110e0.jpeg",
-    "static/media/foto7.jpeg": "/Kelzem1/Germanrolon.git/static/media/foto7.70f88ee992eabd1a8a77.jpeg",
-    "static/media/whatsapp.png": "/Kelzem1/Germanrolon.git/static/media/whatsapp.fdd4b7007148bcf6ce48.png",
-    "static/media/email.png": "/Kelzem1/Germanrolon.git/static/media/email.ca1ec769418f28a531ee.png",
-    "index.html": "/Kelzem1/Germanrolon.git/index.html",
-    "main.90711c18.css.map": "/Kelzem1/Germanrolon.git/static/css/main.90711c18.css.map",
-    "main.da06d921.js.map": "/Kelzem1/Germanrolon.git/static/js/main.da06d921.js.map",
-    "787.1cc83d21.chunk.js.map": "/Kelzem1/Germanrolon.git/static/js/787.1cc83d21.chunk.js.map"
+    "main.css": "/Germanrolon/static/css/main.c0f472b9.css",
+    "main.js": "/Germanrolon/static/js/main.0453da5f.js",
+    "static/js/787.1cc83d21.chunk.js": "/Germanrolon/static/js/787.1cc83d21.chunk.js",
+    "static/media/azulejo.jpg": "/Germanrolon/static/media/azulejo.82a757299ad916fdb76c.jpg",
+    "static/media/reforma.jpg": "/Germanrolon/static/media/reforma.6b9d724ef00f31ca8911.jpg",
+    "static/media/foto1.jpeg": "/Germanrolon/static/media/foto1.c4fefdecf954e03066ad.jpeg",
+    "static/media/foto5.jpeg": "/Germanrolon/static/media/foto5.085a7424b26f1f5cce3c.jpeg",
+    "static/media/suelo.jpg": "/Germanrolon/static/media/suelo.b877557c0dd793a2f869.jpg",
+    "static/media/foto3.jpeg": "/Germanrolon/static/media/foto3.5974ffa66b166db454f1.jpeg",
+    "static/media/foto6.jpeg": "/Germanrolon/static/media/foto6.15c3f723020348098921.jpeg",
+    "static/media/foto2.jpeg": "/Germanrolon/static/media/foto2.be1d277e2f9ad9b2a90e.jpeg",
+    "static/media/foto4.jpeg": "/Germanrolon/static/media/foto4.f5e13dfab1a181736d61.jpeg",
+    "static/media/logoGerman.png": "/Germanrolon/static/media/logoGerman.ac1225295bf0e6c3a34f.png",
+    "static/media/foto8.jpeg": "/Germanrolon/static/media/foto8.e5046dcf2e595ce110e0.jpeg",
+    "static/media/foto7.jpeg": "/Germanrolon/static/media/foto7.70f88ee992eabd1a8a77.jpeg",
+    "static/media/whatsapp.png": "/Germanrolon/static/media/whatsapp.fdd4b7007148bcf6ce48.png",
+    "static/media/email.png": "/Germanrolon/static/media/email.ca1ec769418f28a531ee.png",
+    "index.html": "/Germanrolon/index.html",
+    "main.c0f472b9.css.map": "/Germanrolon/static/css/main.c0f472b9.css.map",
+    "main.0453da5f.js.map": "/Germanrolon/static/js/main.0453da5f.js.map",
+    "787.1cc83d21.chunk.js.map": "/Germanrolon/static/js/787.1cc83d21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90711c18.css",
-    "static/js/main.da06d921.js"
+    "static/css/main.c0f472b9.css",
+    "static/js/main.0453da5f.js"
   ]
 }
