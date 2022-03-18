@@ -10,7 +10,8 @@ import email from './imgs/email.png'
 const Homenmore = () =>{
     
     return(
-        <div className=" m-auto intro bg-slate-900 shadow-xl shadow-slate-800">
+    <div className='fondo w-full h-full'>
+        <div className=" m-auto intro bg-slate-900/[0.9] shadow-xl shadow-slate-800">
             <div className="encabezado grid-cols-3 gap-6 flex flex-row p-3 fixed top-0 left-100 right-0">
                 <p className="boton text-zinc-50 justify-end p-2 bg-yellow-400/[0.9] rounded-full w-10">
                     <a className="" href="tel:+34616661807"><img src={phone} alt='' width={30} height={30} /></a>
@@ -32,6 +33,7 @@ const Homenmore = () =>{
                 </a>
             </div>
         </div>
+    </div>
     )
 }
 

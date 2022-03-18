@@ -11,6 +11,10 @@
     width: 86%;
     height: 60%;
 }
+.fondo{
+    background-image: url('/src/imgs/fondo.jpeg');
+    background-size: cover;
+}
 .cont{
     background-color: rgba(0, 0, 0, 0.247);
     height: 80vh;
@@ -23,6 +27,7 @@
     width: 100%;
     border-radius: 0.2em;
 }
+
 .presupuesto{
     font-size: 17px;
     font-weight: bold;
