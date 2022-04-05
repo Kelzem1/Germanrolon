@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f234dfea.css",
-    "main.js": "/static/js/main.0160b696.js",
+    "main.css": "/static/css/main.d36f5f18.css",
+    "main.js": "/static/js/main.e71812a3.js",
     "static/js/787.1cc83d21.chunk.js": "/static/js/787.1cc83d21.chunk.js",
     "static/media/azulejo.jpg": "/static/media/azulejo.82a757299ad916fdb76c.jpg",
     "static/media/reforma.jpg": "/static/media/reforma.6b9d724ef00f31ca8911.jpg",
     "static/media/foto1.jpeg": "/static/media/foto1.c4fefdecf954e03066ad.jpeg",
     "static/media/foto5.jpeg": "/static/media/foto5.085a7424b26f1f5cce3c.jpeg",
+    "static/media/fondo.jpeg": "/static/media/fondo.e9df8ddfe841fed3e5e0.jpeg",
     "static/media/suelo.jpg": "/static/media/suelo.b877557c0dd793a2f869.jpg",
     "static/media/foto3.jpeg": "/static/media/foto3.5974ffa66b166db454f1.jpeg",
     "static/media/foto6.jpeg": "/static/media/foto6.15c3f723020348098921.jpeg",
@@ -18,12 +19,12 @@
     "static/media/whatsapp.png": "/static/media/whatsapp.fdd4b7007148bcf6ce48.png",
     "static/media/email.png": "/static/media/email.ca1ec769418f28a531ee.png",
     "index.html": "/index.html",
-    "main.f234dfea.css.map": "/static/css/main.f234dfea.css.map",
-    "main.0160b696.js.map": "/static/js/main.0160b696.js.map",
+    "main.d36f5f18.css.map": "/static/css/main.d36f5f18.css.map",
+    "main.e71812a3.js.map": "/static/js/main.e71812a3.js.map",
     "787.1cc83d21.chunk.js.map": "/static/js/787.1cc83d21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f234dfea.css",
-    "static/js/main.0160b696.js"
+    "static/css/main.d36f5f18.css",
+    "static/js/main.e71812a3.js"
   ]
 }
