@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className='flex flex-col'>
     <Homenmore />
     <Info />
     <SimpleSlider />

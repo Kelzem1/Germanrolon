@@ -1,20 +1,28 @@
 import wa from './imgs/whatsapp.png'
 import email from './imgs/email.png'
+import phone from './imgs/phone.png'
 
 
 const Contacto = () =>{
     return(
-        <div id='contact' className=' bg-yellow-400/[0.9]'>
-            <h2 className='presupuesto flex flex-row m-auto justify-center items-center p-6 text-lg text-center'>Contacta ya con nosotros. ¡Presupuesto gratis!</h2>
-            <div className='h-32 grid-row-2 grid-cols-2 flex flex-col justify-center items-center pl-5'>
-                <div className='flex flex-row'>
-                    <a className="pl-1" href="https://wa.me/34616661807"><img src={wa} alt='' width={45} height={30}/></a>
-                    <p className='pl-5 p-4 flex flex-row'>Telf: +34 616-661-807</p>
+        <div id='contact' className=' bg-yellow-400 text-black '>
+            <h2 className='flex-col mt-10 font-extrabold m-auto justify-center items-center text-2xl text-center'>Contacta ya con nosotros.<br/> Sin compromiso!</h2>
+            <div className='grid grid-cols-3 w-80 justify-center m-auto items-center my-10 gap-9'>
+
+                <div className='flex justify-center align-middle'>
+                    <a className='' href="tel:+34616661807">
+                        <img src={phone} alt='phone' width={45} height={30}/>
+                    </a>
                 </div>
-                <div className='flex flex-row'>
-                <a className="pl-17" href="mailto:germankelu@gmail.com"><img src={email} alt='' width={45} height={30}/></a>
-                <p className='p-5 flex flex-row'>Email: germankelu@gmail.com</p>
+
+                <div className='flex flex-row w-full justify-center align-middle'>
+                    <a className="" href="https://wa.me/34616661807"><img src={wa} alt='whatsapp' width={45} height={30}/></a>
                 </div>
+
+                <div className='flex flex-row w-full justify-center align-middle'>
+                <a className="" href="mailto:germankelu@gmail.com"><img src={email} alt='mail' width={45} height={30}/></a>
+                </div>
+
             </div>
             
         </div>

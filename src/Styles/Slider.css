@@ -7,9 +7,9 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    color: black;
-    width: 86%;
-    height: 60%;
+    color: rgb(239, 218, 218);
+    width: 90%;
+    height: 100%;
 }
 .fondo{
     background-image: url('/src/imgs/fondo.jpeg');
@@ -28,21 +28,7 @@
     border-radius: 0.2em;
 }
 
-.presupuesto{
-    font-size: 17px;
-    font-weight: bold;
-}
-.boton{
-    transition: all ease 0.3s;
-    box-shadow: #6e7002a4 0px 10px 40px -13px inset, rgba(0, 0, 0, 0.3) 0px 11px 36px -18px inset;
-}
-.boton:hover{
-    box-shadow: rgba(126, 126, 126, 0.438) 0px -50px 36px -28px inset;
-}
-.masboton:hover{
-    transition: all ease-in-out;
-    box-shadow: rgba(126, 126, 126, 0.438) 0px -50px 36px -28px inset;
-}
+
 .tarjeta1{
     background-image: url(/src/imgs/azulejo.jpg);
     background-size: cover;
