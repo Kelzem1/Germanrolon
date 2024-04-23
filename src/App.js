@@ -8,12 +8,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className='flex flex-col'>
-    <Homenmore />
-    <Info />
-    <SimpleSlider />
-    <Contacto />
-    <Footer />
+    <div className='flex flex-col w-full bg-slate-900'>
+      <div className=''>
+        <Homenmore />
+        <Info />
+        <SimpleSlider />
+        <Contacto />
+        <Footer />
+      </div>
     </div>
   );
 }
